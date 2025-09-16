@@ -1,1 +1,137 @@
+body,html,form{
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	padding-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+}
+body {
+	font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
+	font-size:11px;
+	color:#000000;
+	background-image: url(/web/20061212002330im_/http://www.sproutletsgrow.com/img/green_bg_tile.gif);
+}
+td {
+	font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
+	font-size:11px;
+	color:#000000;
+}
+th {
+	font-family: Verdana, Geneva, Arial, helvetica, sans-serif;	font-size:10px;
+	color:#000000;
+}
+p {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	padding-left: 0px;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+}
+input {
+	font-size:11px;
+}
+a:link {
+	color: #76268a;
+	font-weight:normal;
+}
+a:visited {
+	color: #76268a;
+	font-weight:normal;
+}
+a:hover {
+	color: #76268a;
+	font-weight:normal;
+}
+a:active {
+	color: #76268a;
+	font-weight:normal;
+}
+a.bottomNavType1:link {
+	color:#f4f1a4;
+}
+a.bottomNavType1:visited {
+}
+a.bottomNavType1:hover {
+	color:#f4f1a4;
+}
+a.bottomNavType1:active {
+	color:#f4f1a4;
+}
+a.bottomNavType2:link {
+	color:#cbf7ff;
+}
+a.bottomNavType2:visited {
+	color:#cbf7ff;
+}
+a.bottomNavType2:hover {
+	color:#cbf7ff;
+}
+a.bottomNavType2:active {
+	color:#cbf7ff;
+}
+a.bottomNavType3:link {
+	color:#ffffff;
+}
+a.bottomNavType3:visited {
+	color:#ffffff;
+}
+a.bottomNavType3:hover {
+	color:#ffffff;
+}
+a.bottomNavType3:active {
+	color:#ffffff;
+}
+.copyright {
+	color:#FFFFFF;
+	font-weight:bold;
+}
+#container {
+	position:absolute;
+	width:770px;
+	left: 50%;
+	margin-left: -385px;
+	padding-bottom: 50px;
+}
+#topNav {
+	position:relative;
+	float:left;
+	width:770px;
+	height:125px;
+}
+#content {
+	position:relative;
+	float:left;
+	width:770px;
+	padding-bottom:50px;
+}
+#footer {
+	position:relative;
+	float:center;
+	width:100%;
+	text-align:center;
+}
+/*
+     FILE ARCHIVED ON 00:23:30 Dec 12, 2006 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 04:41:23 Sep 16, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.694
+  exclusion.robots: 0.018
+  exclusion.robots.policy: 0.007
+  esindex: 0.012
+  cdx.remote: 69.422
+  LoadShardBlock: 261.687 (3)
+  PetaboxLoader3.datanode: 299.845 (4)
+  load_resource: 39.552
+*/
